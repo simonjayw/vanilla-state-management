@@ -22,7 +22,7 @@ export default class PubSub {
     }
 
     /**
-     * 订阅者
+     * 发布者
      * @param {string} event 
      * @param {*} data 
      */
